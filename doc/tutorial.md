@@ -132,7 +132,7 @@ Prompt: implemente as funções `getAllUsers`, `getUserByID`, `createUser`, `upd
 Parte 1: O dev recebe a issue:
 
 
-# Issue:
+# Issue002:
 
 
 Claro 🙂 Segue uma **issue bem estruturada** para **criação de registro de usuários em uma arquitetura MVC**, pronta para usar no GitHub / Jira / GitLab.
